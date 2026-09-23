@@ -8,4 +8,4 @@ Disallow: /join.html
 Disallow: /mypage.html
 Disallow: /shop.html
 
-Sitemap: https://sarang-massage.example/sitemap.xml
+Sitemap: https://sarang-massage.xyz/sitemap.xml
